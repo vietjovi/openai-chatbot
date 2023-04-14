@@ -32,5 +32,7 @@ License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 ## Reference
-https://platform.openai.com/docs/api-reference
+https://platform.openai.com/docs/api-reference  
 https://learn.microsoft.com/en-us/azure/cognitive-services/openai/
+
+# Welcome to join in and feel free to contribute.
