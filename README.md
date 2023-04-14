@@ -18,7 +18,7 @@ Once the chatbot is up and running, you can start sending queries to it and it w
 
 To use the OpenAI chatbot, simply send a query to the chatbot using the following format:
 
-python openai-chatbot.py
+```python openai-chatbot.py```
 
 >> Hello, can you help me with something?
 
