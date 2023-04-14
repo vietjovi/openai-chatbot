@@ -10,7 +10,7 @@ To get started with the OpenAI chatbot, follow these steps:
 - Install the required dependencies by running pip install -r requirements.txt.
 - Create an account on the OpenAI website and obtain an API key.
 - Set your API key in *config.py*.
-- Start the chatbot by running python chatbot.py.
+- Start the chatbot by running ```python openai-chatbot.py ```.
 
 Once the chatbot is up and running, you can start sending queries to it and it will respond with generated text based on the input.
 
