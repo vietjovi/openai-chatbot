@@ -1,13 +1,13 @@
 # openai-chatbot
 
-This repository contains a chatbot application that uses OpenAI's language model to generate responses to user queries. The chatbot is built using Python 3 and the OpenAI API, and it can be easily integrated into your web or mobile application.
+This repository contains a chatbot application that uses OpenAI's language model to generate responses to user queries. The chatbot is built using **Python 3** and **OpenAI API**, and it can be easily integrated into your web or mobile application.
 
 ## Setup
 
 To get started with the OpenAI chatbot, follow these steps:
 
 - Clone this repository to your local machine.
-- Install the required dependencies by running pip install -r requirements.txt.
+- Install the required dependencies by running ```pip install -r requirements.txt```.
 - Create an account on the OpenAI website and obtain an API key.
 - Set your API key in *config.py*.
 - Start the chatbot by running ```python openai-chatbot.py ```.
